@@ -77,7 +77,15 @@ The project includes:
     <img width="597" height="295" alt="image" src="https://github.com/user-attachments/assets/d3a96995-1fc1-497f-b8b3-9330fe6bb78f" />
 
   - Port security violation tests
+
+    <img width="744" height="412" alt="image" src="https://github.com/user-attachments/assets/40a65891-c41a-4bf6-9f6d-afac3f254861" />
+
   - ACL functionality verification
+    
+    <img width="867" height="356" alt="image" src="https://github.com/user-attachments/assets/c37e5039-b5bd-48a9-ab2c-696c2761e7a4" />
+    <img width="487" height="259" alt="image" src="https://github.com/user-attachments/assets/aa57b798-d68d-47e2-81f0-dc090431d5b4" />
+
+
 
 ---
 
